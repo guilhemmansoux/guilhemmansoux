@@ -1,4 +1,14 @@
-## Hi there 👋
+##Passionné des marchés de l'électricité
+
+Voici un rapide résumé de mon travail sur les marchés de l'électricité :
+
+- modélisation de la consommation d'électricité en Pologne d'ici à 2030, projet d'économétrie sur R
+- projet sur les marchés de l'électricité avec la librairie pandas sur python
+- projet sur les marchés de l'électricité avec la librairie matplotlib sur python
+- projet sur les marchés de l'électricité avec la librairie statsmodels sur python
+
+
+
 
 <!--
 **guilhemmansoux/guilhemmansoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
