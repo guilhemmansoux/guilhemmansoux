@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### This is Guilhem Mansoux!
 
-Welcome to my Github page! I am currently finishing my Energy Economics Master degree at IFP School, Université Paris-Saclay, and my engineer diploma at AgroParisTech!
+Welcome to my Github page! I am currently finishing my Energy Economics Master degree at IFP School, Université Paris-Saclay, and my Engineer Diploma at AgroParisTech!
 
 #### :zap: Things I am currently working on: 
 - Finish my Energy Economics Master Degree and my engineer diploma  
