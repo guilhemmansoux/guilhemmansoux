@@ -5,7 +5,7 @@ Welcome to my Github page! I am currently finishing my Energy Economics Master d
 
 #### :zap: Things I am currently working on: 
 - Finish my Energy Economics Master Degree and my engineer diploma  
-- Improving my skills in python to better analyze, understand and forecast the electricy prices on the european electricity market
+- Improve my skills in python to better analyze, understand and forecast the electricy prices on the european electricity market
 
 #### :muscle: Things I am challenging myself with:
 - Work for a electricity trading company
@@ -13,9 +13,9 @@ Welcome to my Github page! I am currently finishing my Energy Economics Master d
 - Generate interesting plots I see on the internet for the European electricty market
 
 #### :computer: Programming languages and tools: 
-* Python
-* R - 
-* GAMS - 
+* Python - Matplotlib, Numpy, Pandas, Scikitlearn, Statsmodels
+* R - econometrics, statistics (linear regression, logistic regression, KNN, k-means, PCA)
+* GAMS - Computable General Equilibrium (CGE) Modeling 
 * SQL
 
 
