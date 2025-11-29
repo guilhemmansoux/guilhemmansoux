@@ -4,7 +4,7 @@
 Welcome to my Github page! I am currently finishing my Energy Economics Master degree at IFP School, Université Paris-Saclay, and my Engineer Diploma at AgroParisTech!
 
 #### :zap: Things I am currently working on: 
-- Finish my Energy Economics Master Degree and my engineer diploma  
+- Finish my Energy Economics Master Degree and my Engineer Diploma  
 - Improve my skills in python to better analyze, understand and forecast the electricy prices on the european electricity market
 
 #### :muscle: Things I am challenging myself with:
