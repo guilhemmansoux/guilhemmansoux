@@ -1,17 +1,16 @@
 ### Hi there 👋 
 ### This is Guilhem Mansoux!
 
-Welcome to my Github page! I am currently finishing my Energy Economics Master degree at IFP School, Université Paris-Saclay!  
+Welcome to my Github page! I am currently finishing my Energy Economics Master degree at IFP School, Université Paris-Saclay, and my engineer diploma at AgroParisTech!
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+#### :zap: Things I am currently working on: 
+- Finish my Energy Economics Master Degree and my engineer diploma  
+- Improving my skills in python to better analyze, understand and forecast the electricy prices on the european electricity market
 
 #### :muscle: Things I am challenging myself with:
-- Publishing a few project I have to do during my master degree
-- 
-- Improving my skills in python to better analyze and forecast the electricy prices on the european electricity market
+- Work for a electricity trading company
+- Publish a few project I have to do during my Master degree
+- Generate interesting plots I see on the internet for the European electricty market
 
 #### :computer: Programming languages and tools: 
 * Python
