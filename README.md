@@ -15,8 +15,8 @@ Welcome to my Github page! I am currently finishing my Energy Economics Master d
 
 #### :computer: Programming languages and tools: 
 * Python
-* R
-* GAMS
+* R - 
+* GAMS - 
 * SQL
 
 
